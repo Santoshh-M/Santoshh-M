@@ -12,17 +12,14 @@
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily **.java**, **.xml**, **.py**
 - 🌱 I’m currently learning android application development.
-- 💬 You can contact me @ [hashnode](www.instagram.com/s_a_n_t_h_u_u_)
-- 📝 This is my E-commerce web application [hashnode](https://Vseeit.tech)
+- 💬 You can contact me @ [Santosh](https://instagram.com/s_a_n_t_h_u_u_)
+- 📝 This is my E-commerce web application [Vseeit](https://Vseeit.tech)
 - 👯 Friendly with code 
 - ⚡ Fun fact: Je connais un peu le français
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="85" height="70"/> 
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="IPYNB" width="55" height="55"/> 
