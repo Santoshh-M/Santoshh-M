@@ -12,7 +12,7 @@
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily **.java**, **.xml**, **.py**
 - 🌱 I’m currently learning android application development.
-- 💬 You can contact me @ [Santosh](https://instagram.com/s_a_n_t_h_u_u_)
+- 💬 You can contact me @ [Santosh](https://instagram.com/__santhuu__)
 - 📝 This is my E-commerce web application [Vseeit](https://Vseeit.tech)
 - 👯 Friendly with code 
 - ⚡ Fun fact: Je connais un peu le français
