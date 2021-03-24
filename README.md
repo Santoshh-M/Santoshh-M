@@ -1,4 +1,4 @@
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hi Dev <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p align="center">
 <a href="https://twitter.com/santosh2001m" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Santosh_M" height="30" width="30" /></a>&nbsp;
 <a href="https://linkedin.com/in/santoshm2603" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Santosh_M" height="30" width="30" /></a>&nbsp;
@@ -13,7 +13,7 @@
 - 💻 I use daily **.java**, **.xml**, **.py**
 - 🌱 I’m currently learning android application development.
 - 💬 You can contact me @ [Santosh](https://instagram.com/__.santhuu.__)
-- 📝 This is my E-commerce web application [Vseeit](https://Vseeit.tech)
+- 📝 This is my E-commerce web application is unders construction [Vseeit](https://Vseeit.tech)
 - 👯 Friendly with code 
 - ⚡ Fun fact: Je connais un peu le français
 
