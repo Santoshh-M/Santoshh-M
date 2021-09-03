@@ -8,11 +8,11 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### 🤵 About Me:
-- 🏦 I'm Developing Advance Android apps. 
+- 🏦 I'm Developing Android_apps. 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily **.java**, **.xml**, **.py** 
 - ♻️ Recycling my mind with **Code ❤️** 
-- 🧲 I’m currently learning android application development.
+- 🧲 I’m currently learning Android application development.
 - 💬 You can contact me @ [Santosh](https://instagram.com/__.santhuu.__)
 - 📝 This is my E-commerce web application [Vseeit](https://Vseeit.tech)
 - 👯 Friendly with code 
