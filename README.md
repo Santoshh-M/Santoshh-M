@@ -9,7 +9,7 @@
 
 ### 🤵 About Me:
 - 🏦 I'm Developing Android_apps. 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+      <img src="https://github.com/PranavGPR/PranavGPR/raw/main/code.gif" width="25">
 - 💻 I use daily **.java**, **.xml**, **.py** 
 - ♻️ Recycling my mind with **Code ❤️** 
 - 🧲 I’m currently learning Android application development.
