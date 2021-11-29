@@ -5,11 +5,10 @@
 <a href="https://www.buymeacoffee.com/santoshdev"><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
 </p>
 
-![](https://github.com/PranavGPR/PranavGPR/raw/main/code.gif)
+![]<img src="https://github.com/PranavGPR/PranavGPR/raw/main/code.gif">
 
 ### 🤵 About Me:
 - 🏦 I'm Developing Android_apps. 
-      <img src="" width="30">
 - 💻 I use daily **.java**, **.xml**, **.py** 
 - ♻️ Recycling my mind with **Code ❤️** 
 - 🧲 I’m currently learning Android application development.
