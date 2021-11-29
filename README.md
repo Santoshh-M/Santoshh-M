@@ -4,7 +4,7 @@
 <a href="https://linkedin.com/in/santoshm2603" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Santosh_M" height="30" width="30" /></a>&nbsp;
 </p>
 
-<img src="https://github.com/M-Santosh/M-Santosh/blob/main/img.gif" height="400">
+<img src="https://github.com/M-Santosh/M-Santosh/blob/main/img.gif" width="600" height="400">
 
 ### 🤵 About Me:
 - 💻 I use daily **.js**, **.java**, **.html**, **.xml**, **.py** 
