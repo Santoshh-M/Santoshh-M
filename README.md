@@ -2,13 +2,11 @@
 <p align="center">
 <a href="https://twitter.com/santosh2001m" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Santosh_M" height="30" width="30" /></a>&nbsp;
 <a href="https://linkedin.com/in/santoshm2603" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Santosh_M" height="30" width="30" /></a>&nbsp;
-<a href="https://www.buymeacoffee.com/santoshdev"><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
 </p>
 
-<img src="https://github.com/M-Santosh/M-Santosh/blob/main/img.gif">
+<img src="https://github.com/M-Santosh/M-Santosh/blob/main/img.gif" height="400">
 
 ### 🤵 About Me:
-- 🏦 I'm Developing Android_apps. 
 - 💻 I use daily **.js**, **.java**, **.html**, **.xml**, **.py** 
 - ♻️ Recycling my mind with **Code ❤️** 
 - 💬 You can contact me @ [Santosh](https://instagram.com/__.santhuu.__)
