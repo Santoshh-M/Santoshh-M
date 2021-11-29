@@ -5,15 +5,13 @@
 <a href="https://www.buymeacoffee.com/santoshdev"><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
 </p>
 
-![]<img src="https://github.com/PranavGPR/PranavGPR/raw/main/code.gif">
+<img src="https://github.com/M-Santosh/M-Santosh/blob/main/img.gif">
 
 ### 🤵 About Me:
 - 🏦 I'm Developing Android_apps. 
-- 💻 I use daily **.java**, **.xml**, **.py** 
+- 💻 I use daily **.js**, **.java**, **.html**, **.xml**, **.py** 
 - ♻️ Recycling my mind with **Code ❤️** 
-- 🧲 I’m currently learning Android application development.
 - 💬 You can contact me @ [Santosh](https://instagram.com/__.santhuu.__)
-- 📝 This is my E-commerce web application [Vseeit](https://Vseeit.tech)
 - 👯 Friendly with code 
 - 🌑 Love dark Mode
 - 📷 Capturing the moment of life 
