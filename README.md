@@ -1,7 +1,7 @@
 # Hi Dev <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p align="center">
 <a href="https://twitter.com/santosh2001m" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Santosh_M" height="30" width="30" /></a>&nbsp;
-<a href="https://linkedin.com/in/santoshm2603" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Santosh_M" height="30" width="30" /></a>&nbsp;
+<a href="https://linkedin.com/in/santoshmofficial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Santosh_M" height="30" width="30" /></a>&nbsp;
 </p>
 
 <img src="https://github.com/M-Santosh/M-Santosh/blob/main/img.gif" width="600" height="400">
